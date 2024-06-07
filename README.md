@@ -32,21 +32,23 @@ NVIDIA provides *high-performance computing* for AI, gaming, data centers, and a
 ### Unique Solution
 > NVIDIA's CUDA platform leverages GPU parallel processing for general computing, offering a performance edge over CPUs. AI frameworks like *TensorRT* and *cuDNN* optimize deep learning.
 
-<div style="display: flex; align-items: right;">
-    <div style="flex-grow: 1;">
-        <h3>Technologies Utilized</h3>
-        <ul>
-            <li><strong>GPUs</strong></li>
-            <li><strong>CUDA</strong></li>
-            <li><strong>TensorRT</strong></li>
-            <li><strong>cuDNN</strong></li>
-            <li><strong>DGX Systems</strong></li>
-        </ul>
-    </div>
-    <div style="flex-shrink: 0; margin-left: 100px;">
-        <img src= NVIDIA_chip.jpeg alt="chip" style="width: 400px;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>Technologies Utilized</h3>
+      <ul>
+        <li><strong>GPUs</strong></li>
+        <li><strong>CUDA</strong></li>
+        <li><strong>TensorRT</strong></li>
+        <li><strong>cuDNN</strong></li>
+        <li><strong>DGX Systems</strong></li>
+      </ul>
+    </td>
+    <td style="text-align: right; vertical-align: top;">
+      <img src=NVIDIA_chip.jpeg alt="chip" style="width: 400px;">
+    </td>
+  </tr>
+</table>
 
 
 ## Landscape
