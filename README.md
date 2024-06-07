@@ -1,6 +1,6 @@
 # ai-case-study
 
-<img src= NVIDIA_logo.png width="512" height="377.8">
+<img src= NVIDIA_logo.png width="400">
 
 
 # NVIDIA - GPU Technology
