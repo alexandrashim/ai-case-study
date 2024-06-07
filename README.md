@@ -2,15 +2,6 @@
 
 <img src= NVIDIA_logo.png width="400">
 
-<style>
-    h1, h2, h3, h4, h5, h6 {
-        font-family: "Inter", sans-serif;
-    }
-
-    p {
-        font-family: "Inter", serif;
-    }
-</style>
 
 # NVIDIA - GPU Technology
 
