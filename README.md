@@ -43,10 +43,10 @@ NVIDIA provides *high-performance computing* for AI, gaming, data centers, and a
             <li><strong>DGX Systems</strong></li>
         </ul>
     </div>
-    <div style="flex-shrink: 0; margin-left: 20px;">
+    <div style="flex-shrink: 0; margin-left: 100px;">
         <img src= NVIDIA_chip.jpeg alt="chip" style="width: 400px;">
     </div>
-</div>s
+</div>
 
 
 ## Landscape
